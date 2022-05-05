@@ -47,6 +47,25 @@
   )
 
 
+  (symbol (lib_id "Device:R") (at 162.56 86.36 0) (unit 1)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (uuid 1bd80cf9-f42a-4aee-a408-9dbf4e81e625)
+    (property "Reference" "R?" (id 0) (at 165.1 85.0899 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "R" (id 1) (at 165.1 87.6299 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "" (id 2) (at 160.782 86.36 90)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (id 3) (at 162.56 86.36 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 80095e91-6317-4cfb-9aea-884c9a1accc5))
+    (pin "2" (uuid 15699041-ed40-45ee-87d8-f5e206a88536))
+  )
+
   (symbol (lib_id "Device:R") (at 147.32 85.09 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e2eb2cd9-9b45-4dbc-b649-963ec3bf20f3)
@@ -71,6 +90,9 @@
   )
 
   (symbol_instances
+    (path "/1bd80cf9-f42a-4aee-a408-9dbf4e81e625"
+      (reference "R?") (unit 1) (value "R") (footprint "")
+    )
     (path "/e2eb2cd9-9b45-4dbc-b649-963ec3bf20f3"
       (reference "R?") (unit 1) (value "R") (footprint "")
     )
