@@ -281,7 +281,6 @@
     )
   )
 
-
   (junction (at 75.946 152.019) (diameter 0) (color 0 0 0 0)
     (uuid 3add9107-b26e-465d-a3ab-794244e466f0)
   )
@@ -2920,7 +2919,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 37f4d357-0721-438a-b5ed-06972c07bc69)
   )
-  (label "A18" (at 25.1523 152.146 0)
+  (label "A18" (at 25.146 152.146 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 3c244de4-ae55-41ae-930a-bb31a3df3024)
   )
@@ -3240,7 +3239,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid a8840d90-d298-41c2-9e9b-cd7453c514a5)
   )
-  (label "A19" (at 25.1523 154.686 0)
+  (label "A19" (at 25.146 154.686 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid a9587a0a-171c-454a-9590-01b02641a928)
   )
