@@ -149,7 +149,7 @@
         0,
         0,
         0,
-        1,
+        0,
         0,
         0,
         0,
@@ -163,7 +163,7 @@
         1,
         0,
         0,
-        1,
+        0,
         0,
         2,
         2,
@@ -177,7 +177,7 @@
         0,
         0,
         0,
-        1,
+        0,
         0,
         1,
         0,
@@ -191,7 +191,7 @@
         0,
         0,
         0,
-        1,
+        0,
         1,
         2,
         1,
@@ -205,7 +205,21 @@
         0,
         0,
         0,
-        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
         0,
         0,
         0,
@@ -222,20 +236,6 @@
         0,
         0,
         0,
-        0,
-        0,
-        2
-      ],
-      [
-        1,
-        1,
-        1,
-        1,
-        1,
-        0,
-        1,
-        1,
-        1,
         1,
         1,
         2
@@ -247,7 +247,7 @@
         1,
         0,
         0,
-        1,
+        0,
         0,
         0,
         0,
@@ -261,7 +261,7 @@
         2,
         0,
         0,
-        1,
+        0,
         0,
         2,
         2,
@@ -325,17 +325,17 @@
       "global_label_dangling": "warning",
       "hier_label_mismatch": "error",
       "label_dangling": "error",
-      "lib_symbol_issues": "warning",
+      "lib_symbol_issues": "ignore",
       "multiple_net_names": "warning",
       "net_not_bus_member": "warning",
       "no_connect_connected": "warning",
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
-      "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_not_driven": "ignore",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
-      "unannotated": "error",
+      "unannotated": "ignore",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"
@@ -455,6 +455,26 @@
     [
       "d2026d3a-086e-4a53-8ab1-d3bc1760ee80",
       "8254 Bullet 7"
+    ],
+    [
+      "aa0479a8-9be0-4d4d-9c8f-f9fc6a8f3249",
+      "8279 Bullet 8"
+    ],
+    [
+      "09ac3b94-d9cb-47d1-8a5f-5bf8fa1bfed1",
+      "UART Bullet 9"
+    ],
+    [
+      "9c9e8575-fbc0-4309-8c46-309205d98d0e",
+      "LCD Bullet 10"
+    ],
+    [
+      "7a3a61e5-1b11-49b0-89c5-2430e8efd77c",
+      "LED Bullet 11"
+    ],
+    [
+      "13f92509-fde6-4ffa-a12c-4ae92a07665b",
+      "Switch bullet 12"
     ]
   ],
   "text_variables": {}
