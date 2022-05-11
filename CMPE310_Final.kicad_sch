@@ -1828,6 +1828,9 @@
     (path "/9c9e8575-fbc0-4309-8c46-309205d98d0e/409e25a1-44e7-4962-8351-fd6a43798341"
       (reference "#PWR0187") (unit 1) (value "GND") (footprint "")
     )
+    (path "/9c9e8575-fbc0-4309-8c46-309205d98d0e/c924dcc9-5c36-4505-b7ea-e9887cd80553"
+      (reference "#PWR0188") (unit 1) (value "GND") (footprint "")
+    )
     (path "/0b8e0ee2-7afa-4814-819b-2e6aa4aca00d"
       (reference "C0") (unit 1) (value "100uF") (footprint "Capacitor_THT:CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal")
     )
@@ -1878,6 +1881,9 @@
     )
     (path "/09ac3b94-d9cb-47d1-8a5f-5bf8fa1bfed1/c7cbcfcf-b46e-4390-ab86-669dd6e81932"
       (reference "C91") (unit 1) (value "0.1uF") (footprint "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal")
+    )
+    (path "/9c9e8575-fbc0-4309-8c46-309205d98d0e/d1352964-b097-4f4a-a666-1d6c0eb440a5"
+      (reference "C101") (unit 1) (value "0.1uF") (footprint "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal")
     )
     (path "/7a3a61e5-1b11-49b0-89c5-2430e8efd77c/caa16c6c-63d7-4293-9652-4e6a6d2a7813"
       (reference "C111") (unit 1) (value "0.1uF") (footprint "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal")

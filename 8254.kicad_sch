@@ -1273,7 +1273,7 @@
     (uuid ff7e4e0e-bc8f-485d-99f7-147507a3c2d9)
     (property "Reference" "U73" (id 0) (at 57.8799 173.1531 0))
     (property "Value" "74LVC1G332" (id 1) (at 57.8799 175.6931 0))
-    (property "Footprint" "" (id 2) (at 58.1262 167.6381 0)
+    (property "Footprint" "Package_DIP:DIP-6_W7.62mm" (id 2) (at 58.1262 167.6381 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf" (id 3) (at 58.1262 167.6381 0)
