@@ -1831,8 +1831,23 @@
     (path "/9c9e8575-fbc0-4309-8c46-309205d98d0e/c924dcc9-5c36-4505-b7ea-e9887cd80553"
       (reference "#PWR0188") (unit 1) (value "GND") (footprint "")
     )
+    (path "/6f5ef1fb-a91f-4c8f-bdef-57aa70244e4a/cd678fc6-9cc8-46fd-848d-1909d74b5886"
+      (reference "#PWR0189") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/6f5ef1fb-a91f-4c8f-bdef-57aa70244e4a/a61e330e-bc1f-4cf5-aeb5-c846209486ea"
+      (reference "#PWR0190") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/6f5ef1fb-a91f-4c8f-bdef-57aa70244e4a/c5bdd4cc-9973-4212-8dd8-cef99fbac302"
+      (reference "#PWR0191") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/6f5ef1fb-a91f-4c8f-bdef-57aa70244e4a/1d6258de-caea-47fa-8bd0-6ed90ea9119f"
+      (reference "#PWR0192") (unit 1) (value "GND") (footprint "")
+    )
     (path "/0b8e0ee2-7afa-4814-819b-2e6aa4aca00d"
       (reference "C0") (unit 1) (value "100uF") (footprint "Capacitor_THT:CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal")
+    )
+    (path "/6f5ef1fb-a91f-4c8f-bdef-57aa70244e4a/50f476fb-2103-4b14-aedd-ef4f7ab3f5ac"
+      (reference "C1") (unit 1) (value "0.1uF") (footprint "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal")
     )
     (path "/daf4be98-0eb6-4833-a263-400c3636409f/1000b2bf-e47f-4102-89a3-ae9f7501da23"
       (reference "C11") (unit 1) (value "10uF") (footprint "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal")
@@ -1851,6 +1866,9 @@
     )
     (path "/6f5ef1fb-a91f-4c8f-bdef-57aa70244e4a/137eace1-6549-4ffd-9dcb-b05a3d2ae90c"
       (reference "C32") (unit 1) (value "0.1uF") (footprint "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal")
+    )
+    (path "/6f5ef1fb-a91f-4c8f-bdef-57aa70244e4a/dd50f5f4-ffb4-4130-abce-0f160d41e598"
+      (reference "C34") (unit 1) (value "0.1uF") (footprint "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal")
     )
     (path "/386fd9e7-4a2f-4190-bb90-7aa00fc0177d/1b59fb18-01a5-4157-89ff-8bf43f849b34"
       (reference "C41") (unit 1) (value "0.1uF") (footprint "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal")
@@ -2211,6 +2229,12 @@
     )
     (path "/6f5ef1fb-a91f-4c8f-bdef-57aa70244e4a/f4f45ae1-d6a7-4742-9eba-31137f8d82e8"
       (reference "U35") (unit 1) (value "74LS138") (footprint "Package_DIP:DIP-16_W7.62mm")
+    )
+    (path "/6f5ef1fb-a91f-4c8f-bdef-57aa70244e4a/7ec6dfbc-905e-4383-8509-234bce740d29"
+      (reference "U36") (unit 1) (value "CY7C199") (footprint "Package_DIP:DIP-28_W7.62mm")
+    )
+    (path "/6f5ef1fb-a91f-4c8f-bdef-57aa70244e4a/e5c1ec85-6316-4158-9d46-9db0c4decb7b"
+      (reference "U37") (unit 1) (value "CY7C199") (footprint "Package_DIP:DIP-28_W7.62mm")
     )
     (path "/386fd9e7-4a2f-4190-bb90-7aa00fc0177d/717d3e94-3a5d-4910-ba9e-e7b63fb3c274"
       (reference "U41") (unit 1) (value "8284") (footprint "Package_DIP:DIP-18_W7.62mm")
